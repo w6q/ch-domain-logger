@@ -7,5 +7,5 @@ Tool for checking availability of .ch domains and log results in a csv file.
 
 ### Todos
 - Add proxy support
-
+- Add auto buy mode using openprovider api
 ### USE AT YOUR OWN RISK
